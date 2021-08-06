@@ -1,5 +1,5 @@
 1 import java.util.*;
-2 public class Stage0_DEVIKA_script
+2 public class SlAzezat-Stage-0_jv
 3{
           
 4 static int hammingDist(String SU, String TH)
@@ -20,7 +20,7 @@
 18    String TH = "@Azeezat02";
 19 
 20    
-21    System.out.println("Azeezat Osikoya, oluwatobiosikoya1@gmail.com,@Azeezat, Drug Development, @Azeezat02, "+ hammingDist (SU, TH));
+21    System.out.println("Azeezat Osikoya, oluwatobiosikoya1@gmail.com,@Azeezat, Drug Development, @Azeezat02, "+ hammingDist (SU, TH)");
 22    
 23}
 24}
